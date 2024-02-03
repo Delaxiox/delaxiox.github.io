@@ -1,3 +1,3 @@
 # Sup
 
-This is my portfolio, k thx.
+If you're seeing this, something went wrong.
