@@ -10,7 +10,7 @@ function About() {
     <br/>
     <img className="about-pfp" src={delaPFP} alt="Headshot illustration of a gothic punk husky dog" />
     <br/>
-    <p><i>Sharp, edgy, punk dog on the outside. Kind-hearted soul on the inside.</i></p>
+    <p className="center-p"><i>Sharp, edgy, punk dog on the outside. Kind-hearted soul on the inside.</i></p>
     <br/>
     <p>Dela has gone through multiple renditions, backstories, lore changes, etc - to the point that I often point to the Spider-verse as a good example of how to think about him. He's had a full gothic part-vampire arc, the obvious werewolf arc, chibi Dela, street punk / Jet Set Radio-esque styled Dela, and who could forget raver Dela.</p>
     <br/>
@@ -31,10 +31,10 @@ function About() {
     <br/>
     <a target="_blank" rel="noreferrer" href={delaRef}><img className="about-ref" src={delaRef} alt="Reference Sheet of Dela" /></a>
     <br/>
-    <p>Please do not use Dela as your character. I'll draw you your own character if you just ask.</p>
+    <p className="center-p">Please do not use Dela as your character. I'll draw you your own character if you just ask.</p>
     <br/>
     
-    <p><small>This section will be more fleshed out at a later time.</small></p>
+    <p className="center-p"><small>This section will be more fleshed out at a later time.</small></p>
     <br/>
     <p></p>
     <br/>

@@ -75,6 +75,15 @@ p {
   text-align: left;
 }
 
+.all-center-paragraphs p {
+  width: 100%;
+  text-align: center;
+}
+
+.center-p {
+  text-align:center;
+}
+
 a {
   color:inherit;
 }
@@ -147,7 +156,14 @@ footer {
   height: 100vh;
   z-index:-1;
   filter: grayscale(1);
-  opacity: 0.2;
+  opacity: 0.125;
+}
+
+@media (max-width: 767px) {
+  .background-image {
+    right: auto;
+    left: 45vw;
+  }
 }
 
 /* ABOUT PAGE */
