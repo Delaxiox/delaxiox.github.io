@@ -46,7 +46,7 @@ function About() {
     <div className="all-left-paragraphs">
       <p>I've been a furry since 2001 - and through the years, I've met so many incredible people and fallen in love with the community.</p>
       <br/>
-      <p>My life thus far has been a balancing act of two identities - one being a somewhat 'average' life with a 9 to 5 job that pays the bills, but still struggling to live comfortably, like many dream of - and another life of a digital dog that wants to fight for change while still bringing comfort and joy to the souls struggling to remain hopeful.</p>
+      <p>To pay the bills, I grind the ol' 9 to 5 as a web dev, marketing others. For fun, I'm a digital dog with a punk attitude that wants to really <i>fight</i> for some change in the world. In my free time, all I my soul wants to do is create a better world.</p>
       <br/>
       <p>As a military kid, my family moved around quite often. With that, comes having to find a new friend group everytime you move somwhere new.</p>
       <br/>
@@ -54,11 +54,13 @@ function About() {
       <br/>
       <p>One day, while looking for new games, I stumbled upon Furcadia and thus I fell into the rabbit hole.</p>
       <br/>
-      <p>Furcadia not only introduced me to things like pixel art, roleplaying, storytelling, world building, and programmingS - it also introduced to me the concept of what a furry was, though I didn't realize until later that furries existed outside of Furcadia.</p>
+      <p>Furcadia not only introduced me to things like pixel art, roleplaying, storytelling, world building, and programming - it also introduced to me the concept of what a furry was, though I didn't realize until later that furries existed outside of Furcadia.</p>
       <br/>
       <p>Time went by and eventually people started moving from Furcadia to Second Life, only bringing our characters to life even further. I also learned a bit about 3D modeling, texturing, and even more programming from making in-game video game replicas of memorable weapons.</p>
       <br/>
-      <p>As I moved through higher education and started making money, I was finally able to start exploring in-person fur meets, get a suit, and meet locals who also loved our community.</p>
+      <p>As I moved through higher education and started making a bit more money, I was finally able to start exploring in-person fur meets, get a suit, and meet locals who also loved our community.</p>
+      <br/>
+      <p>I've been a furry for over two decades now, but I've really only been able to connect with others in person as an adult. In a way, I only want to reclaim the days I missed out on.</p>
       <br/>
       <p>These days, I contribute to the fandom by assisting people with implementing technology so they can get back to doing what they are good at - and hopefully we can make even greater things together.</p>
     </div>
