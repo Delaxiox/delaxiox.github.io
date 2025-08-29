@@ -1,29 +1,29 @@
 [
   {
-    "telegramHandle": "@cosplaykween",
-    "eventName": "(TEST) Advanced Armor Crafting Workshop",
+    "telegramHandle": "@timetravelingcodedog",
+    "eventName": "(TEST) An Event You Missed",
     "day": "Friday",
     "startTime": "14:30",
     "endTime": "16:30",
     "location": "Panel Room 1",
-    "eventDetails": "Learn professional techniques for creating realistic armor pieces using EVA foam, thermoplastics, and weathering. Bring your own basic tools - advanced materials provided. Limited to 15 participants."
+    "eventDetails": "An event that already passed. This is just an example since this took longer than expected to get up."
   },
   {
-    "telegramHandle": "@tabletopmaster",
-    "eventName": "(TEST) Midnight D&D One-Shot",
+    "telegramHandle": "Not Listed",
+    "eventName": "Suzu's Pin Trade Event!",
     "day": "Saturday",
-    "startTime": "00:00",
-    "endTime": "04:00",
-    "location": "Panel Room 2",
-    "eventDetails": "Epic level 15 adventure through the Shadowfell! Pre-generated characters provided or bring your own. Snacks and energy drinks included. Must be 18+ due to mature themes and late hours."
+    "startTime": "18:00",
+    "endTime": "20:30",
+    "location": "The Zoo",
+    "eventDetails": "Your chance to trade and collect wooden, acrylic, or enamel pins with other pin collectors at FursonaCon!"
   },
   {
-    "telegramHandle": "@animescreening2",
-    "eventName": "(TEST) Studio Ghibli Movie Marathon",
+    "telegramHandle": "@yourhandle",
+    "eventName": "(TEST) Your Event Goes Here",
     "day": "Sunday",
     "startTime": "10:00",
     "endTime": "18:00",
-    "location": "By The Fountain",
-    "eventDetails": "Full day screening of Spirited Away, Princess Mononoke, and Howl's Moving Castle with intermissions. Japanese with subtitles. Bring pillows and blankets for comfort. Light refreshments available."
+    "location": "The Form Below",
+    "eventDetails": "This is a test tool, but something I'd love to use at any con to help consolidate unofficial events for others to attend. Use the form below and I'll add your event to the list!"
   }
 ]

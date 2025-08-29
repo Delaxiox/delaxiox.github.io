@@ -367,3 +367,9 @@ footer {
   color: var(--not-white);
   flex-grow: 1;
 }
+
+.stampRally {
+  width: 100%;
+  max-width: 800px;
+  margin-top:32px;
+}
