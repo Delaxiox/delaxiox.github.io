@@ -66,11 +66,6 @@ const ConventionEventForm = () => {
       const apiUrl = `https://api.callmebot.com/text.php?user=@delaxiox&text=${message}`;
       
       console.log('CallMeBot URL:', apiUrl);
-      
-      const response = await fetch(apiUrl, {
-        method: 'GET',
-        mode: 'no-cors'
-      });
 
       setSubmitStatus({ 
         type: 'success', 
