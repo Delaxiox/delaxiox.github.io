@@ -10,6 +10,7 @@ function Nav() {
                     <NavLink to="/about">About</NavLink>
                     <NavLink to="/contact">Contact</NavLink>
                     <NavLink to="/credits">Credits</NavLink>
+                    <NavLink to="/fursonacon">FursonaCon (Temp)</NavLink>
                 </ul>
             </nav>;
 }

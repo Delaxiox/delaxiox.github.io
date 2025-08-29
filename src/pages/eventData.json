@@ -1,0 +1,29 @@
+[
+  {
+    "telegramHandle": "@cosplaykween",
+    "eventName": "Advanced Armor Crafting Workshop",
+    "day": "Friday",
+    "startTime": "14:30",
+    "endTime": "16:30",
+    "location": "Workshop Room B",
+    "eventDetails": "Learn professional techniques for creating realistic armor pieces using EVA foam, thermoplastics, and weathering. Bring your own basic tools - advanced materials provided. Limited to 15 participants."
+  },
+  {
+    "telegramHandle": "@tabletopmaster",
+    "eventName": "Midnight D&D One-Shot",
+    "day": "Saturday",
+    "startTime": "00:00",
+    "endTime": "04:00",
+    "location": "Gaming Hall Table 7",
+    "eventDetails": "Epic level 15 adventure through the Shadowfell! Pre-generated characters provided or bring your own. Snacks and energy drinks included. Must be 18+ due to mature themes and late hours."
+  },
+  {
+    "telegramHandle": "@animescreening",
+    "eventName": "Studio Ghibli Movie Marathon",
+    "day": "Sunday",
+    "startTime": "10:00",
+    "endTime": "18:00",
+    "location": "Theater Room 2",
+    "eventDetails": "Full day screening of Spirited Away, Princess Mononoke, and Howl's Moving Castle with intermissions. Japanese with subtitles. Bring pillows and blankets for comfort. Light refreshments available."
+  }
+]
