@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf4e6918.css",
-    "main.js": "/static/js/main.a9a62b48.js",
-    "static/js/592.1ba544cc.chunk.js": "/static/js/592.1ba544cc.chunk.js",
+    "main.css": "/static/css/main.fe7dee7e.css",
+    "main.js": "/static/js/main.7fbf1047.js",
+    "static/js/453.bc58aecb.chunk.js": "/static/js/453.bc58aecb.chunk.js",
     "static/media/dela-punk-fullbody.webp": "/static/media/dela-punk-fullbody.5b17ed9ebeaae1ed461a.webp",
     "static/media/dela-ref-2023.webp": "/static/media/dela-ref-2023.4466d1a086576807817e.webp",
     "static/media/paper-pattern.png": "/static/media/paper-pattern.cda5ea47aba7512e1440.png",
     "static/media/dela-01.webp": "/static/media/dela-01.e0472e75f743d7ebb59b.webp",
     "index.html": "/index.html",
-    "main.bf4e6918.css.map": "/static/css/main.bf4e6918.css.map",
-    "main.a9a62b48.js.map": "/static/js/main.a9a62b48.js.map",
-    "592.1ba544cc.chunk.js.map": "/static/js/592.1ba544cc.chunk.js.map"
+    "main.fe7dee7e.css.map": "/static/css/main.fe7dee7e.css.map",
+    "main.7fbf1047.js.map": "/static/js/main.7fbf1047.js.map",
+    "453.bc58aecb.chunk.js.map": "/static/js/453.bc58aecb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf4e6918.css",
-    "static/js/main.a9a62b48.js"
+    "static/css/main.fe7dee7e.css",
+    "static/js/main.7fbf1047.js"
   ]
 }
