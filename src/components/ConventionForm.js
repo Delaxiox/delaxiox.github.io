@@ -67,6 +67,13 @@ const ConventionEventForm = () => {
       
       console.log('CallMeBot URL:', apiUrl);
 
+      const response = await fetch(apiUrl, {
+        method: 'GET',
+        mode: 'no-cors'
+      });
+
+      console.log(response);
+
       setSubmitStatus({ 
         type: 'success', 
         message: 'Event submitted successfully.' 
